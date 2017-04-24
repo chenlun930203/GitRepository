@@ -11,3 +11,4 @@ git status
 git commit -m "提交信息"
 -m后面输入的是本次提交的说明
 ee
+gg
