@@ -1,0 +1,12 @@
+1.设置用户名和邮箱
+git config --global user.name "Your Name"
+git config --global user.email "email@example.com"
+2.将一个目录变成Git可以管理的仓库
+git init
+3. 把文件添加到仓库
+git add 文件名
+4.查看文件状态
+git status
+5. 把文件提交到仓库
+git commit -m "提交信息"
+-m后面输入的是本次提交的说明
